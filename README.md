@@ -24,4 +24,4 @@ There are several libraries available in Python like Matplotlib, Seaborn, etc. f
 Plotly is an open-source data visualization library to create interactive and publication-quality charts/graphs.
 Plotly offers implementation of many different graph types/objects like line plot, scatter plot, area plot, histogram, box plot, bar plot, etc.
 Plotly supports interactive plotting in commonly used programming languages like Python, R, MATLAB, Javascript, etc.
-In this [Notebook](https://github.com/Awais1161/Plotly/blob/main/Plotly.ipynb), most commo graphs used for data visualization are covered in Python.
+In this [Notebook](https://github.com/Awais1161/Plotly/blob/main/Plotly.ipynb), most common graphs used for data visualization are covered in Python.
