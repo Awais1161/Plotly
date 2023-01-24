@@ -8,7 +8,7 @@ For e.g. consider a case where you are asked to illustrate crucial sales aspects
 2. Exploring the data using different types of sales graphs and charts
 Obviously, you would prefer graphs and charts. So data visualization plays a key role in data exploration and data analysis.
 
-## Data Visualization is the technique to represent the data/information in a pictorial or graphical format. It enables the stakeholders and decision-makers to analyze and explore the data visually and uncover deep insights.
+Data Visualization is the technique to represent the data/information in a pictorial or graphical format. It enables the stakeholders and decision-makers to analyze and explore the data visually and uncover deep insights.
 
 “Visualization gives you answers to questions you didn’t know you had.” – Ben Schneiderman
 
@@ -24,4 +24,4 @@ There are several libraries available in Python like Matplotlib, Seaborn, etc. f
 Plotly is an open-source data visualization library to create interactive and publication-quality charts/graphs.
 Plotly offers implementation of many different graph types/objects like line plot, scatter plot, area plot, histogram, box plot, bar plot, etc.
 Plotly supports interactive plotting in commonly used programming languages like Python, R, MATLAB, Javascript, etc.
-In this Notebook (https://github.com/Awais1161/Plotly/blob/main/Plotly.ipynb), most commo graphs used for data visualization are covered.
+In this [Notebook] (https://github.com/Awais1161/Plotly/blob/main/Plotly.ipynb), most commo graphs used for data visualization are covered.
